@@ -1,4 +1,4 @@
-baseURL = 'https://mileslin.github.io/'
+baseURL = 'https://mileslin.github.io/aws.learn/'
 languageCode = 'zh-tw'
 title = 'AWS Learning Journey'
 publishdir = 'docs'

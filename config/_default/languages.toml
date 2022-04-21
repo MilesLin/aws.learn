@@ -1,4 +1,7 @@
-
+[zh-tw]
+  title = "Clarity"
+  LanguageName = "Traditional Chinese"
+  weight = 1
 [en]
   title = "Clarity"
   LanguageName = "English"
